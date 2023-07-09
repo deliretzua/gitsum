@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Elaborate Train and Predict mode docs arguments (#8137)
